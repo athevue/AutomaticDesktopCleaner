@@ -149,3 +149,4 @@ extension_paths = {
         '.sys':    'text/other/system',
         '.tmp':    'text/other/system'
         }
+g
